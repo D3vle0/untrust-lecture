@@ -9,7 +9,7 @@ def help():
     print("then write down the pattern like this: ")
     print("187\n296\n345")
     print("="*20)
-    print("this is a rainbow table http://file.devleo.tech/untrust/GestureRainbowTable.db")
+    print("this is a rainbow table http://bit.do/untrust-android-rainbowtable")
     sys.exit(0)
 
 def banner():
